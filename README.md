@@ -21,6 +21,7 @@ In this project, we help a fictional streaming startup called Sparkify to build 
 
 ## Project Files
 ```
+.gitignore ................. ignore .ipynb files used to test the ETL process
 dl.cfg ..................... must contain AWS credentials, but empty in the repo
 etl.py ..................... contains ETL Spark script
 README.md
