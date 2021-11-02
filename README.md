@@ -26,5 +26,9 @@ To run locally, clone this repo into a local folder. Then, make sure you have **
 
 To run on AWS, make sure you instantiate a S3 bucket and an EMR cluster with Spark, and place the bucket on the variable `output` on line 154 of the `etl.py` file. Move the files from this repo to the cluster, and, open a terminal on it to run the ETL script. 
 
+## Disclaimer
+This projects follows [PEP8 style guidelines](https://www.python.org/dev/peps/pep-0008/) and [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/).
+
 ## Contribute
 This is a course project and there is no intention to continue the development. If you have any suggestion to make, however, please, contact me.
+
